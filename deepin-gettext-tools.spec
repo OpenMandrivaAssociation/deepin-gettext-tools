@@ -13,7 +13,7 @@ BuildRequires:  python3-devel
 BuildRequires:  perl(Config::Tiny)
 BuildRequires:  perl(Exporter::Tiny)
 BuildRequires:  perl(XML::LibXML)
-#BuildRequires:  perl(XML::LibXML::PrettyPrint)
+BuildRequires:  perl(XML::LibXML::PrettyPrint)
 
 Requires:       gettext
 Requires:       qt5-linguist
